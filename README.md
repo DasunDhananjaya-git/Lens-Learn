@@ -23,7 +23,7 @@
 | Frontend    | React.js, Axios, Tailwind/Bootstrap |
 | Backend     | Spring Boot, Spring Security, Spring Data JPA |
 | Auth        | OAuth 2.0 (Google/Facebook login) |
-| Database    | MySQL or PostgreSQL    |
+| Database    | mongodb   |
 | Dev Tools   | Maven, Vite, Postman, Git |
 | Deployment  | Docker (optional), Render / Heroku / Vercel |
 
